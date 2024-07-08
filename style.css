@@ -1,0 +1,42 @@
+
+.bo
+{
+    background-color: rgb(255, 255, 184);
+    margin-left:300px;
+    margin-right: 300px;
+    padding: 50px;
+}
+.head
+{
+    background-color: rgb(26, 112, 112);
+    color: rgb(255, 255, 184);
+
+    text-align: center;
+    padding: 5px;
+    font-size: 20px;;
+}
+.b1
+{
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: azure;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px grey;
+    font-size: 20px;
+}
+.b2
+{
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: azure;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px grey;
+    font-size: 20px;
+}
+h2{
+    color: brown;
+}
